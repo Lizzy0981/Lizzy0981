@@ -27,7 +27,11 @@ Paper de investigación independiente · Marzo 2026 · CC BY 4.0 · 47 referenci
 
 ## 📫 Contacto
 
-[lizzyfamilia@gmail.com](mailto:lizzyfamilia@gmail.com) · [linkedin.com/in/eli-familia](https://linkedin.com/in/eli-familia/) · [lizzy0981.github.io](https://lizzy0981.github.io)
+- 📧 Email: [lizzyfamilia@gmail.com](mailto:lizzyfamilia@gmail.com)
+- 🐦 Twitter: [@Lizzyfamilia](https://twitter.com/Lizzyfamilia)
+- 👔 LinkedIn: [in/eli-familia](https://linkedin.com/in/eli-familia)
+- 🐙 GitHub: [Lizzy0981](https://github.com/Lizzy0981)
+- 🌐 Portfolio: [lizzy0981.github.io](https://lizzy0981.github.io)
 
 ---
 
