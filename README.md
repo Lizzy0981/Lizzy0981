@@ -11,8 +11,7 @@ Científica de datos y desarrolladora. Me especializo en medir el impacto ambien
 **[Calculadora de Huella de Carbono en Modelos de IA](https://lizzy0981.github.io/calculadora-huella-carbono-ia/)**
 50 modelos · 5 dimensiones de impacto · 11 idiomas · Datos IEA, NASA, publicaciones peer-reviewed
 
-**[Metodología Científica para Medición de Huella de Carbono en Modelos de IA](https://lizzy0981.github.io/paper/)**
-Paper de investigación independiente · Marzo 2026 · CC BY 4.0 · 47 referencias
+
 
 ---
 
