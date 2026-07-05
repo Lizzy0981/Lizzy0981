@@ -1,6 +1,6 @@
 # Elizabeth Díaz Familia (Lizzy Familia) 👋
 
-**Sustainable AI Scientist · AI Data Scientist · Sustainable Intelligence & BI**
+**Sustainable AI Scientist · AI Data Scientist · Sustainable Intelligence & BI · Sustainable Financial Risk Modeling**
 
 Científica de datos y desarrolladora. Me especializo en medir el impacto ambiental de la inteligencia artificial — carbono, agua, energía, residuos electrónicos y minerales críticos. Trabajo con datos reales, fuentes oficiales y código abierto.
 
